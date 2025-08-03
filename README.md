@@ -23,7 +23,7 @@ The model provides a mechanistic basis for enforcing the five biological rules o
 - Adapts model parameters across multiple tissue types (colonic crypts, skin, hematopoietic, hair follicles)
 
 ## Citation
-Whiteside, M. (2025). *The Whiteside Model: A Quantitative Framework for Circadian-Mitotic-Spatial Stem Cell Regulation.* OSF Preprints. https://doi.org/xxxxx
+Whiteside, M. (2025). *The Whiteside Model: A Quantitative Framework for Circadian-Mitotic-Spatial Stem Cell Regulation.* OSF Preprints. 
 
 ## License
 This work is made available under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
