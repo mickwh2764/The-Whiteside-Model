@@ -24,6 +24,19 @@ The model provides a mechanistic basis for enforcing the five biological rules o
 
 ## Citation
 Whiteside, M. (2025). *The Whiteside Model: A Quantitative Framework for Circadian-Mitotic-Spatial Stem Cell Regulation.* OSF Preprints. 
+	1.	Boman, B. M. — 2025
+Dynamic Organization of Cells in Colonic Epithelium is Encoded by Five Biological Rules
+	2.	Altman, B. J. — 2015
+MYC disrupts the circadian clock and metabolism in cancer cells (Cell Metabolism)
+	3.	Matsu‑Ura, T. — 2016
+Intercellular coupling of the cell cycle and circadian clock in adult stem cell culture (Cell)
+	4.	Matsuo, T. — 2003
+Control mechanism of the circadian clock for timing of cell division in vivo (Science)
+	5.	Janich, P. — 2011
+The circadian molecular clock creates epidermal stem cell heterogeneity (Nature)
+	6.	Hoffmeyer, K. — 2012
+Wnt/β‑catenin signaling regulates telomerase in stem cells and cancer cells (Science)
+
 
 ## License
 This work is made available under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
