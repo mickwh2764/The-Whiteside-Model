@@ -30,4 +30,4 @@ This work is made available under the **Creative Commons Attribution 4.0 Interna
 
 ## Author
 Michael Whiteside  
-For correspondence, please contact via OSF profile or designated correspondence address.
+For correspondence, please contact via OSF profile or designated correspondence address. mickwh@msn.com
